@@ -1,5 +1,3 @@
-### 🔈 Hydra 049 🔊
-
 **Senai Cimatec の大学生**
 
 今 Senai Cimatecに最初の学期で学びています <br>
@@ -19,7 +17,7 @@
 
 ---
 
-### 💻 学びています
+### 学びています
 
 <img align="left" alt="C" width="30px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 
